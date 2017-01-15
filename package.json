@@ -1,0 +1,23 @@
+{
+  "name": "warsawjs-workshop-2",
+  "version": "0.0.0",
+  "description": "Blog in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/hub33k/warsawjs-workshop-2.git"
+  },
+  "author": "hub33k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/hub33k/warsawjs-workshop-2/issues"
+  },
+  "homepage": "https://gitlab.com/hub33k/warsawjs-workshop-2#README",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
